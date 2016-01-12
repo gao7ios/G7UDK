@@ -75,9 +75,9 @@
 ![URLTypes示意图](images/2016/01/QQ20160112-2@2x.png)
 
 配置URL Types时候需要注意的是:
-- tencent的URL Schemes填写:tecent加上腾讯的appkey
+- tencent的URL Schemes填写:tencent加上腾讯的appkey
 - sinaweibo的URL Schemes填写:wb加上新浪微博的appkey
-- wechat的URL Schemes填写:tecent加上微信的appkey
+- wechat的URL Schemes填写:wx加上微信的appkey
 
 
 **接入**
